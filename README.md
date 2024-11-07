@@ -4,6 +4,8 @@
 
 This project aims to develop a Bluetooth controller for the Ailunce HS2/Radioddity QR20/Q900 SDR transceiver device using an ESP32 microcontroller. The ESP32 provides Wi-Fi and Bluetooth connectivity, allowing users to control the device remotely. The controller has a web-based interface for easy access.
 
+ **The project is intended to serve as an example application for an easy introduction to the control possibilities of the transceiver and to encourage users to develop their own applications.**
+
 ![App Interface](img/app.png)
 
 ## Features
